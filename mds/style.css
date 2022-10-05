@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Julee&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'sans serif', 'Julee';
+
+}
+
+.titulo1 {
+    position: absolute;
+    width: 421px;
+    height: 86px;
+    left: 25px;
+    top: 47px;
+    
+    font-family: 'Julee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 65px;
+    line-height: 70px;
+    /* or 108% */
+    
+    letter-spacing: 0.03em;
+    
+    color: #8A0000;
+}
+
+.banner{
+    position: absolute;
+    width: 633px;
+    height: 356px;
+    left: -102px;
+    top: 110px;
+}
+
+.text{
+    position: absolute;
+    width: 334px;
+    height: 44px;
+    left: 48px;
+    top: 444px;
+
+    font-family: 'Julee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 15px;
+    /* or 68% */
+
+    text-align: center;
+    letter-spacing: 0.03em;
+
+    color: #000000;
+}
+
+.img2{
+    position: absolute;
+    width: 430px;
+    height: 202px;
+    left: 0px;
+    top: 683px;
+}
+
+.linkzin{
+    position: absolute;
+width: 406px;
+height: 123px;
+left: 17px;
+top: 885px;
+
+font-family: 'Julee';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 15px;
+/* or 50% */
+
+text-align: center;
+letter-spacing: 0.03em;
+
+}
+
+.autor{
+    position: absolute;
+    width: 290px;
+    height: 65px;
+    left: 74px;
+    top: 36px;
+
+    font-family: 'Julee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 65px;
+    line-height: 70px;
+    
+    letter-spacing: 0.03em;
+    color: #8A0000;
+
+}
+
+.img3{
+    position: absolute;
+    width: 159px;
+    height: 233px;
+    left: 56px;
+    top: 185px;
+
+}
+
+.data {
+    position: absolute;
+    width: 182px;
+    height: 86px;
+    right: 7px;
+    top: 258px;
+
+    font-family: 'Julee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 65px;
+    line-height: 70px;
+    /* or 108% */
+
+    letter-spacing: 0.03em;
+
+}
+
+.img4{
+    position: absolute;
+    width: 318px;
+    height: 217px;
+    left: 95px;
+    top: 448px;
+}
+
+.voltar{
+    position: absolute;
+    width: 406px;
+    height: 123px;
+    left: 12px;
+    top: 730px;
+
+    font-family: 'Julee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 15px;
+    /* or 50% */
+
+    text-align: center;
+    letter-spacing: 0.03em;
+}
+
+.img5{
+    position: absolute;
+    width: 430px;
+    height: 152px;
+    left: 0px;
+    top: 820px;
+    border-radius: 10px;
+}
